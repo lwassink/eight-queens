@@ -1,0 +1,2 @@
+eightqueens.rb implements a Solver class that can solve the eightqueens problem.
+When run, the eightqueens.rb file prints the 92 solutions to the command line.
